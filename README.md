@@ -61,6 +61,3 @@ This setup provides a scalable, secure, and cost-effective solution for running 
 
 ## Repository
 Any deployment scripts or configurations used in this project can be found in this repository.
-
----
-For further improvements, consider integrating Cloud Logging and Monitoring for better observability.
